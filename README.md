@@ -1,10 +1,10 @@
-# The WEB of Data Nard! 🔰
+# The WEB of Data Geeks! 🔰
 
 ![I am seeking opportunity as a Data Analyst](https://www.dbta.com/Images/Default.aspx?ImageID=22488)
 ### What is the purpose of this repo? 
 The main purpose of this repo is to share my experiences from basic to advance level to conflict with myself and other internal obstacles to reach my goals. 
 
-All of my dirty notes, projects I have ever done is uploaded here. 
+All of my dirty notes, projects I have ever done will uploaded here. 
 Excel, SQL and Python all of my code will up updated here every month.
 
 In this section you will find a easiest Road Map 🗺  To learn About Data Analysis.
